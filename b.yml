@@ -10,7 +10,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Incarnation-p-lee/spring-cloud-example-config/
+          uri: https://github.com/polarbear-Yang/test.git
           searchPaths: micro-service-config
           username:
           password:
