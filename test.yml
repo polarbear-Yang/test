@@ -10,7 +10,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/polarbear-Yang/test.git
+          uri: https://github.com/polarbear-Yang/tes
           searchPaths: micro-service-config
           username:
           password:
