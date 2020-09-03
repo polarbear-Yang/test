@@ -1,4 +1,4 @@
-b:as:
+a: a:
 hystrix:
   command:
     default:
